@@ -1,4 +1,4 @@
-# Hi, I'm Caden Rotis 👋
+# Hi, I'm [Caden Otis](https://github.com/cadenrotis) 👋
 
 Embedded software engineer with a B.S. in Electrical Engineering and minor in Computer Science from Iowa State University. I enjoy low-level systems work, digital design, and building software end to end.
 
