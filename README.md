@@ -21,3 +21,7 @@ Embedded software engineer with a B.S. in Electrical Engineering and minor in Co
 
 - **[CPRE3810-Processors](https://github.com/cadenrotis/CPRE3810-Processors)** `VHDL` — Single-cycle, software-scheduled, and hardware-scheduled pipelined MIPS processors designed in VHDL for Iowa State's CPRE 3810 course, including testbenches, MIPS assembly tests, and a comparative performance analysis.
 - **[Roomba-Obstacle-Course](https://github.com/cadenrotis/Roomba-Obstacle-Course)** `C` — Autonomous Roomba obstacle-course navigator for Iowa State's CPRE 2880 course, driving IR, ping, and cliff sensors over UART, ADC, and PWM on a TM4C123 microcontroller.
+
+## 📫 Get in Touch
+
+- Email: cadenotis@gmail.com
